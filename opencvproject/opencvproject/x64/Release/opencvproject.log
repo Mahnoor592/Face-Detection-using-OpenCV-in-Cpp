@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 535 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  opencvproject.vcxproj -> C:\OpenCV\build\opencvproject\x64\Release\opencvproject.exe
